@@ -6,11 +6,13 @@ Hans Hendriks
 hhs@debimspecialist.nl
 
 **samenvatting:**
- - discipinemodellen kúnnen bestaan uit meerdere aspectmodellen
- - één centraal model voor een project is niet effectief
- - losse modellen efficient samenvoegen werkt het meest effectief
+
+- discipinemodellen kúnnen bestaan uit meerdere aspectmodellen
+- één centraal model voor een project is niet effectief
+- losse modellen efficient samenvoegen werkt het meest effectief
 
 **doelgroep:**
+
 Elke modelleur en projectmanager
 
 Deze pagina is een weergave van de open source ontwikkelomgeving op github. U kunt een bijdrage leveren door een ‘pull request’ te sturen op [github](https://github.com/BIM-Handboek-NL/Werken-met-disciplinemodellen), of het aanspreekpunt van deze pagina te benaderen via e-mail.
@@ -47,16 +49,20 @@ Voor toelichting zie: http://www.slideshare.net/berlotti/there-is-no-central-bim
 Het werken met diverse disciplinnemodellen wordt internationaal ook wel werken met Reference models of “Reference View” genoemd.
 http://www.buildingsmart-tech.org/specifications/ifc-view-definition/ifc4-reference-view/ifc4-rv-objective 
  
-![disciplinnemodellen](https://raw.githubusercontent.com/BIM-Handboek-NL/Werken-met-disciplinemodellen/master/images/2012disciplinnemodellen.png)
+![disciplinnemodellen](https://raw.githubusercontent.com/BIM-Handboek-NL/Werken-met-disciplinemodellen/master/images/2012discipinemodellen.png)
 
 
 Toelichting bovenstaand figuur:
+
 **Rechts**: Diverse partijen maken hun eigen model aan conform de projectafspraken. Een duidelijke demarcatie is aan te bevelen. Vanuit ieder disciplinnemodel genereert de verantwoordelijke partij zijn eigen extracten (gebruikelijke output zoals tekeningen, lijsten, etc.)
+
 **Midden**: Op gezette tijden wordt een levering van de disciplinnemodellen verwacht. In de praktijk blijkt dat het handig is om een DMS (Document Management Systeem) te gebruiken om bestanden centraal op te slaan, en via internet toegankelijk. Ook om allerlei andere documenten zoals extracten als tekeningen, notulen, vergunningaanvraag, etc. centraal op te slaan.
-Een andere manier is om een modelserver te gebruiken voor deze centrale opslag van BIM disciplinnemodellen. Een BIM modelserver kent een object georiënteerde manier van opslag.   
+Een andere manier is om een modelserver te gebruiken voor deze centrale opslag van BIM disciplinnemodellen. Een BIM modelserver kent een object georiënteerde manier van opslag.  
+
 **Links**: Door het samenvoegen van alle disciplinnemodellen ontstaat een “*Federated Model*”. Ook wel een aggregate model genoemd.
 
-    Federated Model means a Model consisting of linked but distinct component Models, drawings derived from the Models, texts, and other data sources that do not lose their identity or integrity by being so linked, so that change to one component Model in a Federated Model does not create a change in another component Model in that Federated Model.” Bron:  http://www.lexology.com/library/detail.aspx?g=eaf3ba31-fa41-4e46-b60f-5bac1963f527 
+    Federated Model means a Model consisting of linked but distinct component Models, drawings derived from the Models, texts, and other data sources that do not lose their identity or integrity by being so linked, so that change to one component Model in a Federated Model does not create a change in another component Model in that Federated Model.” 
+    Bron:  http://www.lexology.com/library/detail.aspx?g=eaf3ba31-fa41-4e46-b60f-5bac1963f527 
 
 Dit totaalmodel kan worden gebruikt voor visualisatie, Clashcontrole, hoeveelheden, etc. etc.
 
