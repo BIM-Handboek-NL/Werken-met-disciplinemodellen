@@ -49,7 +49,7 @@ Voor toelichting zie: http://www.slideshare.net/berlotti/there-is-no-central-bim
 Het werken met diverse disciplinnemodellen wordt internationaal ook wel werken met Reference models of “Reference View” genoemd.
 http://www.buildingsmart-tech.org/specifications/ifc-view-definition/ifc4-reference-view/ifc4-rv-objective 
  
-![disciplinnemodellen](https://raw.githubusercontent.com/BIM-Handboek-NL/Werken-met-disciplinemodellen/master/images/2012discipinemodellen.png)
+![disciplinnemodellen](https://raw.githubusercontent.com/BIM-Handboek-NL/shared-resources/master/infographics/2015_dataflow_referencemodel.png)
 
 
 Toelichting bovenstaand figuur:
