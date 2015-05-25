@@ -49,8 +49,8 @@ Voor toelichting zie: http://www.slideshare.net/berlotti/there-is-no-central-bim
 Het werken met diverse disciplinnemodellen wordt internationaal ook wel werken met Reference models of “Reference View” genoemd.
 http://www.buildingsmart-tech.org/specifications/ifc-view-definition/ifc4-reference-view/ifc4-rv-objective 
  
-![disciplinnemodellen](https://raw.githubusercontent.com/BIM-Handboek-NL/shared-resources/master/infographics/2015_dataflow_referencemodel.png)
-
+ 
+![disciplinnemodellen](https://raw.githubusercontent.com/BIM-Handboek-NL/shared-resources/master/pictures/referencemodelconcept.png)
 
 Toelichting bovenstaand figuur:
 
@@ -65,4 +65,8 @@ Een andere manier is om een modelserver te gebruiken voor deze centrale opslag v
     Bron:  http://www.lexology.com/library/detail.aspx?g=eaf3ba31-fa41-4e46-b60f-5bac1963f527 
 
 Dit totaalmodel kan worden gebruikt voor visualisatie, Clashcontrole, hoeveelheden, etc. etc.
+
+Een update van bovenstaande figuur is te vinden op https://raw.githubusercontent.com/BIM-Handboek-NL/shared-resources/master/infographics/2015_dataflow_referencemodel.png
+In deze nieuwe figuur ligt het accent meer op de flow van data; het werken aan je eigen dataset in native software; feit dat niet alle informatie gedeeld wordt met de rest van het team (alleen relevante); de tijdelijkheid van het aggregatie model en het versturen van evaluatie resultaten met BCF naar de native modellen.
+
 
